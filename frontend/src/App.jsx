@@ -31,7 +31,7 @@ import useAllShop from './hooks/useAllShop'
 import Contact from './pages/Contact'
 
 
-export const serverUrl = "http://localhost:3000" 
+export const serverUrl = "https://ali-food-backend.onrender.com" 
  
 const App = () => {
 
